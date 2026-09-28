@@ -1,0 +1,1 @@
+document.querySelectorAll('.button').forEach(button=>{button.addEventListener('click',()=>{document.body.animate([{opacity:.94},{opacity:1}],{duration:180})})});
